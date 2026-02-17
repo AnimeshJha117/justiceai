@@ -9,35 +9,57 @@
 
 "Namaste. Main aaj aapko introduce karna chahta hoon **JusticeAI** se.
 
-**The Problem**: India mein justice ek 'luxury product' ban gaya hai. Kyun? Kyunki lawyers mehenge hain, process intimidatng hai, aur saari legal language complex English mein hai. 
-**Target Customer**: Ek aam aadmi—chahe woh salary ke liye pareshan employee ho ya deposit ke liye ladta tenant—woh darr ke maare awaaz nahi uthata.
+**The Problem**: India mein justice aur legal help ek 'luxury product' ban gaya hai. Kyun? 
+1. Lawyers mehenge hain (₹2000-5000 per consultation).
+2. Process intimidating hai.
+3. Language barrier—saara kanoon English mein hai, par janta Hindi/regional language bolti hai.
 
-**The Solution**: JusticeAI—Aapka 'Legal First-Aid'. Humne ek aisi platform banayi hai jo simple Hinglish mein instant, step-by-step legal guidance deti hai. Hum justice ko 'Luxury' se 'Utility' bana rahe hain."
+**Target Customer**: Ek aam aadmi—chahe woh salary ke liye pareshan employee ho, deposit ke liye ladta tenant, ya gharelu hinsa (DV) ka shikaar koi mahila. Inhe 'Court' nahi, 'Madad' chahiye.
+
+**The Solution**: JusticeAI—Aapka 'Legal First-Aid'. Humne ek ai-powered platform banaya hai jo instant, step-by-step legal guidance deta hai—woh bhi **12 Bhartiya bhashaon mein**. Hum justice ko 'Luxury' se 'Utility' bana rahe hain."
 
 ---
 
 ## **Criteria 2: Working Demo (30 Marks)**
-**(Time: 0:45 - 2:00)**
-*(Note to Speaker: Guide the evaluator through the live app while speaking)*
+**(Time: 0:45 - 2:30)**
+*(Note to Speaker: Guide the evaluator through the live app flow enthusiastically)*
 
-"Chaliye, main aapko ek **Working Demo** dikhata hoon.
+"Chaliye, main aapko ek **Live Working Demo** dikhata hoon.
 
-1. **Bilingual Access**: Hamara landing page visual hai. User apni preferred language (Hindi ya English) select karta hai.
-2. **Simplified Interaction**: User ko legal jargon nahi likhna parta. Humne relatable examples diye hain—jaise 'Salary Issue' ya 'Landlord Dispute'. 
-3. **Real-Time Evidence Checklist**: *(Click on a message)* Dekhiye, AI ne situation ko analyze kiya aur turant ek Checklist generate ki: 'Rent Agreement', 'Bank Statement', etc. User ko pata hai exactly kaunse paper chahiye.
-4. **Audit Trail Verification**: *(Go to Audit page)* Yeh ek real-world solution hai. Har advice cryptographically hash (SHA-256) hoti hai. Aap 'Verify' dabayiye—system mathematically prove karega ki data tamper nahi hua.
-5. **Case Brief PDF**: *(Click Generate Brief)* Just one click, aur system poora case structure (Parties, Chronology, Issues) summarize karke ek lawyer-ready PDF bancha deta hai."
+### **1. Hyper-Accessibility (Language & Voice)**
+"Sabse pehle, dekhiye accessibility. User app kholte hi apni bhasha chunta hai—sirf Hindi/English nahi, balki **Punjabi, Tamil, Bengali समेत 12 languages**. 
+Agar koi likh nahi sakta? No problem. **Voice Input** dabaiye, boliye, aur AI **Voice Output** (Text-to-Speech) mein jawaab dega."
+
+### **2. Core Chat & Risk Assessment**
+"Maan lijiye user kehta hai: *'Mera makan malik deposit wapas nahi kar raha.'*
+Dekhiye AI ne kya kiya:
+1.  **Risk Assessment**: Turant bataya 'Medium Risk'.
+2.  **Plain Language Answer**: Seedha bataya ki Rent Control Act ke tahat aapke kya adhikaar hain."
+
+### **3. Safety Escalation (CRITICAL)**
+"Par agar koi *'Mera pati mujhe maarta hai'* (Domestic Violence) bole? 
+Dekhiye **Safety Shield** activate ho gaya. AI legal gyaan nahi dega, balki seedha **National Helplines (1091)** aur panic button dikhayega. Yeh hai zimmedaar AI."
+
+### **4. Actionable Tools (Evidence & Notices)**
+"Sirf baatein nahi, hum actions par focus karte hain:
+*   **Evidence Checklist**: AI ne list bana di—Rent Agreement, Bank Statement, WhatsApp Chat. User ko pata hai kya jama karna hai.
+*   **Draft Legal Notice**: Ek click, aur AI ne wahi lawyer-style 'Legal Notice' draft kar diya jo bahar ₹2000 mein banta hai."
+
+### **5. Professional Tools (Audit & Case Brief)**
+"And finally, trust ke liye:
+*   **Case Brief Generator**: Poori chat se AI ne ek PDF 'Case Brief' banaya—Dates, Events, Laws—jo aap seedha lawyer ko WhatsApp kar sakte hain.
+*   **RegTech Audit Trail**: *(Show Audit Page)* Har advice **SHA-256 Cryptographic Hash** ke saath secure hai. Data tampering impossible hai. Yeh RegTech grade compliance hai."
 
 ---
 
 ## **Criteria 3: Unique Value Proposition (20 Marks)**
-**(Time: 2:00 - 2:45)**
+**(Time: 2:30 - 3:00)**
 
-"JusticeAI generic AI se alag kyun hai? Hamara **UVP (Unique Value Proposition)** teen pillars par khara hai:
+"Market mein hazar wrappers hain, par JusticeAI alag kyun hai?
 
-1. **RegTech Compliance**: Hum 'Audit Trail' maintain karte hain. Hallucination ka darr nahi hai, kyunki har advice locked aur verifiable hai.
-2. **Explainable AI**: Hum sirf answer nahi dete, hum step-by-step **Reasoning Report** dete hain. Lawyer bhi hamara logic verify kar sakta hai.
-3. **Hyper-Accessibility**: Hum Hinglish/Hindi-first design par focus karte hain, jo India ke real mass market ke liye hai."
+1.  **Massive Vernacular Reach**: 12 Languages + Voice Support (Sarvam AI integration). Real India text nahi padhta, sunta aur bolta hai.
+2.  **Safety & RegTech**: Hum akele hain jo 'Safety Escalation' aur 'Audit Trails' dete hain. Hum hallucination ko feature nahi, bug maante hain.
+3.  **End-to-End Workflow**: Advice se lekar -> Evidence Checklist -> Legal Notice -> Lawyer Connection tak poora funnel cover karte hain."
 
 ---
 
@@ -46,13 +68,15 @@
 
 *Common Questions to Prepare For:*
 
-*   **Q: Accuracy ka kya? Agar AI galat bola toh?**
-    *   *Ans:* Hum ise 'Legal First-Aid' ki tarah position karte hain. Hamari safety layer 'Domestic Violence' jaise critical cases ko turant helpline par escalate karti hai.
-*   **Q: Data Privacy/Security?**
-    *   *Ans:* Hum hashing use karte hain to ensure data integrity. Audit logs restricted hain aur sirf authorized users verify kar sakte hain.
-*   **Q: Monetization Plan?**
-    *   *Ans:* Freemium model for common man, and 'Case Brief' exports for a small fee for lawyers/legal clinics.
+*   **Q: Galat advice diya toh? Liability kiski?**
+    *   *Ans:* Hum clear disclaimer dete hain ki yeh 'Legal Information' hai, advice nahi. Critical queries (suicide/crime) par hum answer block karke agencies ko refer karte hain.
+*   **Q: Revenue Model kya hai?**
+    *   *Ans:* Freemium. Basic Chat free hai. 'Legal Notice Drafting', 'Case Brief PDF', aur 'Lawyer Connect' premium features honge (e.g., ₹49/doc).
+*   **Q: Data Privacy?**
+    *   *Ans:* Hum data encrypt karte hain aur Audit Trail maintain karte hain. User 'Clear Chat' karke sab delete kar sakta hai.
+*   **Q: Competitors (Like ChatGPT)?**
+    *   *Ans:* ChatGPT generic hai. Woh 'Evidence Checklist' ya 'Legal Notice' format nahi jaanta Indian context mein. Hum purpose-built 'Vertical AI' hain.
 
 ---
 
-**"Thank you and ready for questions!"**
+**"Thank you! Questions?"**
