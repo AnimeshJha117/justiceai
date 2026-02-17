@@ -4,16 +4,24 @@ import './globals.css'
 import { AuthProvider } from './auth-context'
 import { Toaster } from '@/components/ui/toaster'
 
-export const metadata: Metadata = {
-  title: 'JusticeAI - Legal First-Aid for Indian Citizens',
-  description: 'Get instant legal guidance on Indian law powered by AI. Ask questions in English or Hindi, get structured legal analysis, risk assessment, and actionable next steps.',
-  generator: 'JusticeAI',
-  keywords: ['legal AI', 'Indian law', 'legal advice', 'JusticeAI', 'legal first aid', 'Hindi legal'],
+export const viewport: Viewport = {
+  themeColor: '#ffffff',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 }
 
-export const viewport: Viewport = {
-  themeColor: '#0f172a',
-  userScalable: true,
+export const metadata: Metadata = {
+  title: 'JusticeAI - Legal First-Aid',
+  description: 'Instant, bilingual legal guidance on Indian law powered by AI.',
+  manifest: '/manifest.json',
+  icons: { apple: '/icons/icon-192x192.png' },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'JusticeAI',
+  },
 }
 
 export default function RootLayout({
